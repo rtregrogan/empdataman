@@ -7,5 +7,5 @@ app.listen(port, () => {
 });
 
 app.get('', (req, res) => {
-    res.send('THIS IS HOME')
+    res.send('Welcome to Employee Data Management: This app is under development')
 })
